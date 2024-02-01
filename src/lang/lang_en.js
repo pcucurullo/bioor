@@ -9,5 +9,5 @@ lang.en.eventStall2 = "Churros";
 lang.en.eventStall3 = "Face painting";
 
 lang.en.eventTimes = "Event times";
-lang.en.timedEvent1 = "12:00 - Concert";
-lang.en.timedEvent2 = "13:00 - Raffle";
+lang.en.timedEvent1 = "13:30 - Concert";
+lang.en.timedEvent2 = "14:00 - Raffle";
