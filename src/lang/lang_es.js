@@ -20,6 +20,7 @@ lang.es.eventStall13 = "Pintacaras";
 lang.es.eventStall14 = "Enfermería";
 lang.es.eventStall15 = "Baños";
 lang.es.eventStall16 = "Baños";
+lang.es.eventStall17 = "Concierto y Rifa";
 
 lang.es.eventTimes = "Horario de eventos";
 lang.es.timedEvent1 = "13:30 - Concierto";

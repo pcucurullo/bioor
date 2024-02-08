@@ -20,6 +20,7 @@ lang.en.eventStall13 = "Face painting";
 lang.en.eventStall14 = "Nurses";
 lang.en.eventStall15 = "Bathrooms";
 lang.en.eventStall16 = "Bathrooms";
+lang.en.eventStall17 = "Concert and Raffle";
 
 lang.en.eventTimes = "Event times";
 lang.en.timedEvent1 = "13:30 - Concert";
