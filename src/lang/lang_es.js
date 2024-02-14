@@ -1,5 +1,6 @@
 lang.es = {};
 
+lang.es.comingSoon = "¡Vuelve pronto para nuestro próximo evento de BIOOR!";
 lang.es.bioorInOurHearts = "BIOOR en Nuestros Corazones";
 lang.es.subtitle = "¡Gracias por venir! Aquí tienes una lista de puestos y eventos para que puedas disfrutar al máximo del día.";
 
